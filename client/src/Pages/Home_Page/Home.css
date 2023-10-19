@@ -1,0 +1,77 @@
+body {
+    background-image: url(./../../../public/Assets/Images/home\ page.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.outerh {
+    font-family: cursive;
+}
+.homeh {
+    background-color: #004b94;
+    padding: .28cm;
+    padding-right: 5cm;
+    padding-left: .5cm;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+    position: relative;
+    left: 3cm;
+    font-size: larger;
+    color: rgb(252, 251, 251);
+    position: relative;
+    top: 4.3cm;
+    text-decoration: none
+}
+.trregistration{
+    background-color: #004b94;
+    padding: .28cm;
+    padding-right: 5cm;
+    padding-left: .5cm;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+    position: relative;
+    left: 3cm;
+    font-size: larger;
+    color: rgb(252, 251, 251);
+    position: relative;
+    top: 5cm;
+    text-decoration: none
+}
+.stregistration{
+    background-color: #004b94;
+    padding: .28cm;
+    padding-right: 5cm;
+    padding-left: .5cm;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+    position: relative;
+    left: 3cm;
+    font-size: larger;
+    color: rgb(252, 251, 251);
+    position: relative;
+    top: 5.7cm;
+    text-decoration: none
+}
+.loginh{
+    background-color: #004b94;
+    padding: .28cm;
+    padding-right: 5cm;
+    padding-left: .5cm;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+    position: relative;
+    left: 3cm;
+    font-size: larger;
+    color: rgb(252, 251, 251);
+    position: relative;
+    top: 6.4cm;
+    text-decoration: none
+}
+.homeh:hover, .stregistration:hover, .loginh:hover, .trregistration:hover {
+    color: rgb(244, 247, 248);
+    border: 1.5px solid #076dd3;
+    background-color: #076dd3;
+}
+a{
+    cursor: pointer;
+}
